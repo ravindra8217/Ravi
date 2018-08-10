@@ -14,7 +14,7 @@ public class Arraysinjava {
 	{
 		int student_id[]= new int[5];
 		
-		student_id[0] = 50;
+		student_id[0] = 60;
 		student_id[1] = 60;
 		student_id[2] = 70;
 		student_id[3] = 80;
